@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 aiohttp
-googlesearch-python
+duckduckgo-search
 beautifulsoup4
 jinja2
 user_agent
