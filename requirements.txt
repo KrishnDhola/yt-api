@@ -5,3 +5,4 @@ googlesearch-python
 beautifulsoup4
 jinja2
 user_agent
+python-multipart
